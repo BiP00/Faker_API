@@ -1,0 +1,11 @@
+ruta para ver un usuario nuevo:
+
+    localhost:8000/api/users/new
+
+ruta para ver una compañía nueva:
+
+    localhost:8000/api/companies/new
+
+ruta para ver un usuario y compañía nueva en conjunto dentro de un array:
+
+    localhost:8000/api/company/new
